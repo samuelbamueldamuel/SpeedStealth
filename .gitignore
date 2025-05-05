@@ -1,0 +1,18 @@
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+
+# Burst cache and packages
+Packages/com.unity.burst/
+Library/PackageCache/
+
+# OS and editor files
+.DS_Store
+*.user
+*.sln
+*.csproj
