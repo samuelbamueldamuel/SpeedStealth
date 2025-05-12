@@ -65,6 +65,7 @@
     <Analyzer Include="/home/sam/Unity/Hub/Editor/6000.0.33f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets/Settings/Scripts/PlayerMovement.cs" />
     <Compile Include="Assets/Settings/TEST.cs" />
   </ItemGroup>
   <ItemGroup>
